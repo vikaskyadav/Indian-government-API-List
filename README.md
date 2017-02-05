@@ -14,8 +14,8 @@ A curated list of official APIs owned by government of India.
 <li><a href="https://data.gov.in/catalog/all-india-and-state-wise-area-and-production-vegetables   ">All India and State Wise Area and Production of Vegetables </a> </li>
 <li><a href="https://data.gov.in/catalog/rural-health-statistics-india-2014  ">Rural Health Statistics in India - 2014 </a> </li>
 <li><a href="https://data.gov.in/catalog/complete-villages-directory-indiastatedistrictsub-district-level-census-2011  "> Complete Villages Directory by India/State/District/Sub-District Level - Census 2011</a> </li>
-<li><a href="https://data.gov.in/catalog/stateut-wise-number-valid-drivers-licences-issued "> </a>State/UT wise Number of Valid Drivers Licences Issued </li>
-<li><a href="https://data.gov.in/catalog/indicators-annual-health-survey  "> </a> Indicators from Annual Health Survey</li>
+<li><a href="https://data.gov.in/catalog/stateut-wise-number-valid-drivers-licences-issued "> State/UT wise Number of Valid Drivers Licences Issued</a> </li>
+<li><a href="https://data.gov.in/catalog/indicators-annual-health-survey  ">Indicators from Annual Health Survey </a> </li>
 <li><a href="   "> </a> </li>
 <li><a href="   "> </a> </li>
 <li><a href="   "> </a> </li>
