@@ -19,7 +19,8 @@ A curated list of official APIs owned by government of India.
 <li><a href="https://data.gov.in/catalog/hospital-directory-national-health-portal   ">Hospital Directory (National Health Portal) </a> </li>
 <li><a href="https://aadhaarapi.com/">Aadhaar API</a> </li>
 <li><a href="http://api.erail.in/">eRail API</a> </li>
-<li><a href="   "> </a> </li>
+<li><a href="http://indianrailapi.com/IndianRail/API/">Indian Rail API</a> </li>
+<li><a href="https://data.gov.in/ogpl_apis">Open Government Data (OGD) Platform India</a> </li>
 <li><a href="   "> </a> </li>
 <li><a href="   "> </a> </li>
 <li><a href="   "> </a> </li>
