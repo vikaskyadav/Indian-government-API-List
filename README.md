@@ -17,6 +17,7 @@ A curated list of official APIs owned by government of India.
 <li><a href="https://data.gov.in/catalog/stateut-wise-number-valid-drivers-licences-issued "> State/UT wise Number of Valid Drivers Licences Issued</a> </li>
 <li><a href="https://data.gov.in/catalog/indicators-annual-health-survey  ">Indicators from Annual Health Survey </a> </li>
 <li><a href="https://data.gov.in/catalog/hospital-directory-national-health-portal   ">Hospital Directory (National Health Portal) </a> </li>
+<li><a href="https://aadhaarapi.com/">Aadhaar API</a> </li>
 <li><a href="   "> </a> </li>
 <li><a href="   "> </a> </li>
 <li><a href="   "> </a> </li>
