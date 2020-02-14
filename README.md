@@ -27,7 +27,7 @@ A curated list of official APIs owned by government of India.
 <li><a href="https://data.gov.in/ogpl_apis">Open Government Data (OGD) Platform India</a> </li>
 <li><a href="https://data.gov.in/ogpl_apis">Open Government Data (OGD) Platform India</a> </li>
 
-<li><a href="   "> </a> </li>
+<li><a href="https://data.gov.in/resources/real-time-air-quality-index-various-locations">Real time Air Quality Index from various locations</a> </li>
 <li><a href="   "> </a> </li>
 <li><a href="   "> </a> </li>
 <li><a href="   "> </a> </li>
